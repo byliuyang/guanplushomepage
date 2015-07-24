@@ -194,14 +194,14 @@
 	top: calc(222px + 180px + 50px);
 
 	animation-name: feature-icon-phone-animation;
-	animation-duration: 900ms;
+	animation-duration: 1000ms;
 	animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 @keyframes feature-icon-phone-animation{
 	0% { top: calc(222px + 180px + 50px); }
-	33% { top: calc(222px + 230px + 180px + 50px); }
-	66% { top: calc(222px + 230px + 180px + 50px); }
+	30% { top: calc(222px + 230px + 180px + 50px); }
+	60% { top: calc(222px + 230px + 180px + 50px); }
 	100% { top: calc(222px + 180px + 50px); }
 }
 
