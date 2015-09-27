@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="35.7448322" cy="35.7448322" rx="35.7448322" ry="35.7448322"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="随手控" sketch:type="MSArtboardGroup" transform="translate(-79.000000, -177.000000)">
+            <g sketch:type="MSLayerGroup" id="2">
+                <g transform="translate(79.626509, 177.859779)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#29B5E1" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <path d="M43.0679705,17.9465964 C43.0679705,17.9465964 80.266183,41.1291817 83.3078437,42.7692932 C96.0235263,49.6257899 76.2188451,55.8067831 76.5167444,56.0134207 C72.371653,76.8055629 57.557479,72.2738761 50.2142019,74.1607241 C37.8726568,66.0075035 12.8566182,48.4026973 12.8566182,48.4026973 C12.8566182,48.4026973 22.9972725,46.854416 23.8037369,47.2789279" id="Path-9" fill="#218CAD" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <g id="云" mask="url(#mask-2)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                        <g transform="translate(10.162373, 16.974170)">
+                            <ellipse id="Oval-9-Copy-5" cx="26.6381522" cy="16.9741697" rx="17.1967818" ry="16.9741697"></ellipse>
+                            <ellipse id="Oval-9-Copy-3" cx="46.1952766" cy="22.9650532" rx="11.1273294" ry="10.9832863"></ellipse>
+                            <ellipse id="Oval-9-Copy-4" cx="8.429795" cy="25.627668" rx="8.429795" ry="8.32067144"></ellipse>
+                            <rect id="Rectangle-7-Copy" x="8.0926032" y="22.6322263" width="38.4398652" height="11.3161132"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

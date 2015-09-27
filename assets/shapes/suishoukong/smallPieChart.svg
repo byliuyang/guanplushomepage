@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>饼状图2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="27.6752768" cy="27.6752768" r="27.6752768"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="随手控" sketch:type="MSArtboardGroup" transform="translate(-205.000000, -160.000000)">
+            <g sketch:type="MSLayerGroup" id="分析图">
+                <g transform="translate(190.036900, 145.387454)">
+                    <g id="饼状图2" transform="translate(15.129151, 14.760148)">
+                        <mask id="mask-2" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#65CDF2" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <path d="M5.90421368,3.00564306 L27.7760744,28.0073175 L50.4845005,49.5295697 L59.9108028,27.4308672 L56.2230764,0.925820034 L38.2982372,-9.32583459 L13.5186518,-4.74404847 L5.90421368,3.00564306 Z" id="Path-107" fill="#44A7CA" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        <path d="M23.8074689,-5.22629626 L27.9527011,27.9538697 L55.3650574,17.832009 L40.0872209,-9.78085872 L23.8074689,-5.22629626 Z" id="Path-108" fill="#EC4F3E" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        <path d="M53.9646697,14.9553156 L27.8341877,27.8708746 L33.5127777,56.1888024 L53.9646709,49.8122721 L61.0059712,34.0361901 L58.0946001,13.5660192 L49.482142,6.91441685 L53.9646697,14.9553156 Z" id="Path-109" fill="#D64737" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

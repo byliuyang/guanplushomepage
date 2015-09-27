@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>饼状图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="36.900369" cy="36.900369" rx="36.900369" ry="36.900369"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="随手控" sketch:type="MSArtboardGroup" transform="translate(-282.000000, -145.000000)">
+            <g sketch:type="MSLayerGroup" id="分析图">
+                <g transform="translate(190.036900, 145.387454)">
+                    <g id="饼状图" transform="translate(92.619926, 0.000000)">
+                        <mask id="mask-2" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#65CDF2" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <path d="M-1.46669929,12.2523771 L37.0347658,37.3430901 L67.3126674,66.0394263 L79.8810703,36.5744896 L74.9641018,1.23442671 L51.0643162,-12.4344461 L18.0248691,-6.32539796 L-1.46669929,12.2523771 Z" id="Path-107" fill="#44A7C9" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        <path d="M31.7432919,-6.96839501 L37.2702682,37.2718263 L66.5100734,7.69608616 L53.4496279,-13.041145 L31.7432919,-6.96839501 Z" id="Path-108" fill="#EC4F3E" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        <path d="M65.3282525,8.90550337 L37.1122502,37.1611661 L64.7132917,63.8464509 L71.9528946,66.4163628 L81.341295,45.3815867 L77.4594668,18.0880256 L65.9761894,9.21922246 L65.3282525,8.90550337 Z" id="Path-109" fill="#D64737" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

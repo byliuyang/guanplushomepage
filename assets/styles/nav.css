@@ -1,0 +1,103 @@
+nav {
+	position: fixed;
+	height: 68px;
+	width:100%;
+	background-color: #2b2f39;
+	text-align: center;
+	z-index: 500;
+	box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+}
+
+nav .center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+	text-align: left;
+}
+
+#logo {
+	float: left;
+	width: 254px;
+	height: 45px;
+	margin-top: calc((68px - 45px) / 2);
+}
+
+#nav-buttons {
+	float: left;
+	padding: 0px 50px 20px 50px;
+	margin: 0;
+	list-style: none;
+}
+
+#nav-buttons:hover {
+	cursor: pointer;
+}
+
+#nav-buttons > li {
+	position: relative;;
+	display: inline-block;
+	width: 160px;
+
+	padding: 26px 0px 6px 0px;
+	font-size: 14px;
+	text-align: center;
+	color: white;
+
+	overflow: hidden;
+
+	transition: color 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#nav-buttons > li > img {
+	float: left;
+	position: absolute;
+
+	top: -30px;
+	left: calc((160px - 30px) / 2);
+	max-height: 20px;
+	opacity: 0;
+
+	transition: all 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#nav-buttons > li > img.hover {
+
+	top: 23px;
+	opacity: 1;
+}
+
+#nav-indicator {
+	float: left;
+	display: none;
+	top: 60px;
+	position:absolute;
+	height: 2px;
+	width: 100px;
+	margin-left: 30px;
+	background-color: #65e5f2;
+	border-radius: 1px;
+
+	transition: left 300ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+nav .buttons {
+	margin-top: 22px;
+	float: right;
+	font-size: 14px;
+	text-align: center;
+	padding: 4px 10px 4px 10px;
+	border-radius: 2px;
+	border: 1px solid #4ebbc6;
+	color: #65e5f2;
+	cursor: pointer;
+	transition:all 0.2s ease-in-out;
+}
+
+nav .buttons:hover {
+	color: white;
+	background-color: #4ebbc6;
+}
+
+#button-login {
+	margin-right: 10px;
+}
