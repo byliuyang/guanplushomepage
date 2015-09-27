@@ -1,0 +1,142 @@
+#banners {
+	position: relative;
+	height: 700px;
+    width:100%;
+	background: radial-gradient(#464a5a, #383c4b);
+	padding-top: 68px;
+	margin-top: 0;
+	z-index: -1;
+	list-style: none;
+}
+
+#banners li {
+	position: relative;
+	height: 700px;
+}
+
+#banners .active {
+	display: block;
+}
+
+#banners .inactive {
+	display: none;
+}
+
+#banner-1-guanplus {
+	position: absolute;
+	top: 40px;
+	left: calc(50% - 160px);
+	mix-blend-mode: soft-light;
+	opacity: 0.1;
+}
+
+#banner-1-guanjia {
+	position: absolute;
+	top: calc((100% - 467px) / 2);
+	left: calc(50% - 480px);
+}
+
+#banner-1-title {
+	position: absolute;
+	top: calc((100% - 200px) / 2);
+	left: calc(50% - 198px);
+	z-index: 100;
+}
+
+#banner-2-cloud-features {
+	position: absolute;
+	top: 40px;
+	left: calc(50% - 800px);
+	z-index: 100;
+}
+
+#banner-2-cloud {
+	position: absolute;
+	top: 80px;
+	left: calc(50% + 120px);
+	z-index: 10;
+}
+
+#banner-2-title {
+	position: absolute;
+	top: 300px;
+	left: 50%;
+	z-index: 20;
+}
+
+#banner-3-arrow {
+	position: absolute;
+	top: -5px;
+	left: calc((100% - 350px) / 2);
+	z-index: 20;
+}
+
+#banner-3-shuangchuang {
+	position: absolute;
+	top: 150px;
+	left: calc((100% - 1200px) / 2);
+	z-index: 30;
+}
+
+#banner-3-chuangxin {
+	position: absolute;
+	top: 350px;
+	left: calc((100% + 400px) / 2);
+	z-index: 30;
+}
+
+#banners a {
+	color: #65e5f2;
+	font-size: 22px;
+	font-weight: bolder;
+	text-decoration: none;	
+}
+
+#banners a:hover {
+	text-decoration: underline;
+}
+
+#banner-3-shuangchuang-news {
+	position: absolute;
+	top: 320px;
+	left: calc((100% - 1200px) / 2);
+	z-index: 30;
+}
+
+#banner-3-chuangxin-news {
+	position: absolute;
+	top: 520px;
+	left: calc((100% + 840px) / 2);
+	z-index: 30;
+}
+
+#banner-page-indicator {
+	position: relative;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -90px;
+	z-index: 100;
+	width: 112px;
+	height: 70px;
+
+	list-style: none;
+	font-size: 0;
+}
+
+#banner-page-indicator li {
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 8px;
+	width: 8px;
+	border-radius: 50%;
+}
+
+#banner-page-indicator .active {
+	background-color: white;
+}
+
+#banner-page-indicator .inactive {
+	background-color: rgba(255, 255, 255, 0.1);
+}

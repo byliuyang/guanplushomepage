@@ -44,8 +44,8 @@
 }
 
 #features > li:nth-child(4) .feature-icon-1 {
-	right: 407px;
-	top: calc(272px + 180px + 50px);
+	right: 239px;
+	top: calc(382px + 180px + 50px);
 
 	transition-duration: 500ms;
 	transition-property: all;
@@ -54,8 +54,8 @@
 }
 
 #features > li:nth-child(4) .feature-icon-2 {
-	right: 344px;
-	top: calc(100px + 180px + 50px);
+	right: 424px;
+	top: calc(314px + 180px + 50px);
 
 	transition-duration: 500ms;
 	transition-property: all;
@@ -64,8 +64,8 @@
 }
 
 #features > li:nth-child(4) .feature-icon-3 {
-	right: 86px;
-	top: calc(85px + 180px + 50px);
+	right: 449px;
+	top: calc(178px + 180px + 50px);
 
 	transition-duration: 500ms;
 	transition-property: all;
@@ -74,8 +74,8 @@
 }
 
 #features > li:nth-child(4) .feature-icon-4 {
-	right: 98px;
-	top: calc(319px + 180px + 50px);
+	right: 64px;
+	top: calc(218px + 180px + 50px);
 
 	transition-duration: 500ms;
 	transition-property: all;
@@ -86,10 +86,10 @@
 #features > li:nth-child(4) .feature-icon-circle {
 	position: absolute;
 
-	right: 139px;
-	top: calc(135px + 180px + 50px);
-	width: 323px;
-	height: 323px;
+	right: 122px;
+	top: calc(122px + 180px + 50px);
+	width: 360px;
+	height: 360px;
 	border-radius: 50%;
 	border: 4px solid rgba(255, 255, 255, 1);
 	background-color: rgba(255, 255, 255, 0);
@@ -111,44 +111,76 @@
 	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#features > li:nth-child(4) .feature-icon-phone {
+#features > li:nth-child(4) .feature-icon-mac {
 	
-	right: 254px;
-	top: calc(222px + 180px + 50px);
+	right: 168px;
+	top: calc(119px + 180px + 50px);
 	z-index: 5;
+
+	transition-duration: 600ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#features > li:nth-child(4) .feature-icon-check {
+#features > li:nth-child(4) .feature-icon-small-pie-chart {
 	
-	right: 271px;
-	top: calc(272px + 180px + 50px);
+	right: 339px;
+	top: calc(160px + 180px + 50px);
 	z-index: 8;
 	opacity: 0;
 
 	transition-duration: 300ms;
 	transition-property: all;
-	transition-delay: 900ms;
 	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#features > li:nth-child(4) .feature-icon-paw {
-
-	right: 255px;
-	top: calc(220px + 180px + 50px);
+#features > li:nth-child(4) .feature-icon-big-pie-chart {
+	
+	right: 242px;
+	top: calc(145px + 180px + 50px);
+	z-index: 8;
+	opacity: 0;
 
 	transition-duration: 300ms;
 	transition-property: all;
+	transition-delay: 50ms;
 	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-#features > li:nth-child(4) .feature-icon-sleeve {
+#features > li:nth-child(4) .feature-icon-line-chart {
 	
-	right: 301px;
-	top: calc(411px + 180px + 50px);
+	right: 278px;
+	top: calc(227px + 180px + 50px);
+	z-index: 8;
+	opacity: 0;
 
-	-webkit-mask-image: url(../shapes/suishoushen/mask.svg);
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-delay: 100ms;
+	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#features > li:nth-child(4) .feature-icon-histogram {
+	
+	right: 187px;
+	top: calc(180px + 180px + 50px);
+	z-index: 8;
+	opacity: 0;
+
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-delay: 150ms;
+	transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#features > li:nth-child(4) .feature-icon-hand-with-coffee {
+	
+	right: 104px;
+	top: calc(348px + 180px + 50px);
+
+	-webkit-mask-image: url(../shapes/suishoukong/mask.svg);
 	-webkit-mask-repeat: no-repeat;
-	-webkit-mask-position: -203px -411px;
+	-webkit-mask-position: -397px -349px;
 
 	transition-duration: 300ms;
 	transition-property: all;
@@ -158,23 +190,26 @@
 /* Actived */
 
 #features > li:nth-child(4).active .feature-icon-1 {
-	right: calc(407px + 90px) ;
-	top: calc(272px + 80px + 180px + 50px);
+	right: calc(239px + 10px) ;
+	top: calc(382px + 130px + 180px + 50px);
 }
 
 #features > li:nth-child(4).active .feature-icon-2 {
-	right: calc(344px + 80px);
-	top: calc(100px - 60px + 180px + 50px);
+
+	right: calc(424px + 80px);
+	top: calc(314px + 20px + 180px + 50px);
 }
 
 #features > li:nth-child(4).active .feature-icon-3 {
-	right: calc(86px - 90px);
-	top: calc(85px - 60px + 180px + 50px);
+
+	right: calc(449px + 40px);
+	top: calc(178px - 30px + 180px + 50px);
 }
 
 #features > li:nth-child(4).active .feature-icon-4 {
-	right: calc(98px - 110px);
-	top: calc(319px + 30px + 180px + 50px);
+
+	right: calc(64px - 60px);
+	top: calc(218px + 20px + 180px + 50px);
 }
 
 #features > li:nth-child(4).active .feature-icon-circle {
@@ -190,30 +225,34 @@
 	top: calc(262px + 230px + 180px + 50px);
 }
 
-#features > li:nth-child(4).active .feature-icon-phone {
-	top: calc(222px + 180px + 50px);
-
-	animation-name: feature-icon-phone-animation;
-	animation-duration: 1000ms;
-	animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+#features > li:nth-child(4).active .feature-icon-mac {
+	top: calc(119px + 120px + 180px + 50px);
 }
 
-@keyframes feature-icon-phone-animation{
-	0% { top: calc(222px + 180px + 50px); }
-	30% { top: calc(222px + 230px + 180px + 50px); }
-	60% { top: calc(222px + 230px + 180px + 50px); }
-	100% { top: calc(222px + 180px + 50px); }
-}
-
-#features > li:nth-child(4).active .feature-icon-check {
+#features > li:nth-child(4).active .feature-icon-small-pie-chart {
+	top: calc(160px + 120px + 180px + 50px);
+	-webkit-transform: rotate(-120deg);
 	opacity: 1;
 }
 
-#features > li:nth-child(4).active .feature-icon-paw {
-	top: calc(220px + 230px + 180px + 50px);
+#features > li:nth-child(4).active .feature-icon-big-pie-chart {
+	top: calc(145px + 120px + 180px + 50px);
+	-webkit-transform: rotate(120deg);
+	opacity: 1;
 }
 
-#features > li:nth-child(4).active .feature-icon-sleeve {
-	top: calc(411px + 230px + 180px + 50px);
+#features > li:nth-child(4).active .feature-icon-line-chart {
+	top: calc(227px + 120px + 180px + 50px);
+	opacity: 1;
+}
+
+#features > li:nth-child(4).active .feature-icon-histogram {
+	top: calc(180px + 120px + 180px + 50px);
+	opacity: 1;
+}
+
+#features > li:nth-child(4).active .feature-icon-hand-with-coffee {
+	right: 0;
+	top: calc(366px + 230px + 180px + 50px);
 	-webkit-mask-image: none;
 }

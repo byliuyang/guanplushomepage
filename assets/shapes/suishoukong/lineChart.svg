@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="133px" height="31px" viewBox="0 0 133 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>线形图</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="随手控" sketch:type="MSArtboardGroup" transform="translate(-190.000000, -226.000000)">
+            <g sketch:type="MSLayerGroup" id="分析图">
+                <g transform="translate(190.036900, 145.387454)" sketch:type="MSShapeGroup">
+                    <g id="线形图" transform="translate(0.369004, 81.180812)">
+                        <path d="M3.14276817,12.7567312 L13.4336499,19.0322082 L29.3861245,3.52364956 L52.5446283,20.0618928 L81.5552671,11.0454587 L102.712677,25.716638 L117.632847,18.7287393 L128.790414,26.1669729" id="Path-110" stroke="#343434" stroke-width="3"></path>
+                        <ellipse id="Oval-47" fill="#F14E3F" cx="2.81070896" cy="12.7652214" rx="2.81070896" ry="2.83671587"></ellipse>
+                        <ellipse id="Oval-47-Copy" fill="#68D0FB" cx="52.4665672" cy="20.329797" rx="2.81070896" ry="2.83671587"></ellipse>
+                        <ellipse id="Oval-47-Copy-3" fill="#F14E3F" cx="101.311677" cy="26.1669729" rx="3.5133862" ry="3.54589483"></ellipse>
+                        <ellipse id="Oval-47-Copy-2" fill="#68D0FB" cx="128.790414" cy="27.1125448" rx="3.10454519" ry="3.13327091"></ellipse>
+                        <ellipse id="Oval-47-Copy-4" fill="#D8D8D8" cx="28.7053893" cy="3.77116519" rx="3.73659128" ry="3.77116519"></ellipse>
+                        <ellipse id="Oval-47-Copy-5" fill="#D8D8D8" cx="81.640408" cy="10.8740775" rx="3.73659128" ry="3.77116519"></ellipse>
+                        <ellipse id="Oval-47-Copy-6" fill="#D8D8D8" cx="116.77427" cy="18.4164079" rx="3.73659128" ry="3.77116519"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

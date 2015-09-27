@@ -3,10 +3,14 @@ $(document).ready(function (){
 
 	// Nav bar animation
 	$("#nav-buttons > li").mouseover(function () {
+		$(this).css("color", "transparent");
+		$(this).children("img").addClass("hover");
 		$("#nav-indicator").css("left",$(this).offset().left).css("display", "block");
 	})
 
 	$("#nav-buttons > li").mouseout(function(){
+		$(this).css("color", "white");
+		$(this).children("img").removeClass("hover");
 		$("#nav-indicator").css("left",$("#nav-buttons > .active").offset().left);
 	})
 

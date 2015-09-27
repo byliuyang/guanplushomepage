@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="274px" height="222px" viewBox="0 0 274 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>电脑</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M93.3907337,221.20952 L93.3907337,217.290211 L103.757257,215.580953 L115.731853,173.812667 L160.76805,173.688316 L172.843291,215.62165 L184.278471,216.453669 L184.278471,220.975515 L93.3907337,221.20952 Z"></path>
+        <rect id="path-3" x="0.73800738" y="0" width="272.51402" height="189.308667" rx="10"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="随手控" sketch:type="MSArtboardGroup" transform="translate(-166.000000, -118.000000)">
+            <g sketch:type="MSLayerGroup" id="电脑">
+                <g transform="translate(165.957012, 118.705466)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#E9E9E9" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-107" fill="#D8D8D8" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="105.124734" y="186.538297" width="71.1307781" height="6.4641984"></rect>
+                    <path d="M93.1156412,217.935832 L164.82606,217.935832 L188.264604,217.935832 L188.264604,231.787685 L93.1156412,231.787685 L93.1156412,217.935832 Z" id="Rectangle-108" fill="#D8D8D8" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <mask id="mask-4" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#3D3F3E" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <rect id="Rectangle-104-Copy" fill="#E9E9E9" sketch:type="MSShapeGroup" mask="url(#mask-4)" x="-51.9172439" y="164.375331" width="363.967877" height="24.9333367" rx="10"></rect>
+                    <rect id="Rectangle-106" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)" x="9.97577077" y="11.081483" width="253.114717" height="142.212365"></rect>
+                    <ellipse id="Oval-44" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-4)" cx="136.995017" cy="6.00246994" rx="1.38566451" ry="1.38518537"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
