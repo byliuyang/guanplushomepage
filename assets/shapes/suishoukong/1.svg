@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="155px" height="154px" viewBox="0 0 155 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="155px" height="154px" viewBox="0 0 155 154"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>4</title>
     <desc>Created with Sketch.</desc>
@@ -14,21 +15,36 @@
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <use id="Mask" fill="#2AB5E0" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                    <path d="M80.3852736,14.1165055 C80.3852736,14.1165055 146.044558,53.8731509 171.823015,68.490519 C171.823015,114.239661 184.202551,166.289295 141.603941,161.793172 C137.280428,156.396622 94.7166464,139.143622 76.9484707,131.717491 L80.3852736,14.1165055 Z" id="Path-21" fill="#1C809F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M80.3852736,14.1165055 C80.3852736,14.1165055 146.044558,53.8731509 171.823015,68.490519 C171.823015,114.239661 184.202551,166.289295 141.603941,161.793172 C137.280428,156.396622 94.7166464,139.143622 76.9484707,131.717491 L80.3852736,14.1165055 Z"
+                          id="Path-21" fill="#1C809F" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
                     <g id="Light-Bulb" mask="url(#mask-2)" sketch:type="MSShapeGroup">
                         <g transform="translate(43.075620, 15.498155)">
-                            <path d="M36.8610362,0.0541156208 L36.8610362,95.6179715 L50.8181141,95.5072513 C50.8181141,95.5072513 54.5886999,94.8512044 54.9884918,87.5980795 C55.9275248,83.8030962 59.1512839,67.7289009 63.5628898,61.337791 C83.630201,36.6649417 72.8026035,1.95133606 36.8610362,0.0541156208 Z" id="Path-207" stroke="none" fill="#F0D212" fill-rule="evenodd"></path>
-                            <path d="M0.175734598,0.0541156208 L0.175734598,95.6179715 L14.1328125,95.5072513 C14.1328125,95.5072513 17.9033983,94.8512044 18.3031902,87.5980795 C19.2422232,83.8030962 22.4659823,67.7289009 26.8775882,61.337791 C46.9448994,36.6649417 36.1173019,1.95133606 0.175734598,0.0541156208 Z" id="Path-207-Copy" stroke="none" fill="#F3EF6A" fill-rule="evenodd" transform="translate(18.518385, 47.836044) scale(-1, 1) translate(-18.518385, -47.836044) "></path>
-                            <path d="M29.197393,33.6648451 L33.762625,37.108032 L36.7102437,33.3112662 L39.5025338,37.108032 L42.6923192,33.3112662" id="Path-216" stroke="#737373" stroke-width="2" fill="none"></path>
-                            <ellipse id="Oval-149" stroke="#FFFFFF" stroke-width="3" fill="none" cx="28.1070896" cy="34.6033017" rx="2.94417838" ry="2.904534"></ellipse>
-                            <path d="M28.4132841,37.2693727 L32.3859622,98.8903208" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" fill="none"></path>
-                            <ellipse id="Oval-149-Copy" stroke="#BEB783" stroke-width="3" fill="none" cx="44.8614273" cy="34.6033017" rx="2.94417838" ry="2.904534"></ellipse>
-                            <path d="M44.6494467,37.2693727 L41.0222187,98.8903208" id="Line-Copy-15" stroke="#BEB783" stroke-width="3" stroke-linecap="square" fill="none"></path>
-                            <path d="M36.7641259,95.6179715 L51.0900027,95.6179715 C51.0900027,95.6179715 49.771935,110.028773 46.8410347,114.393702 C44.9966428,117.140517 36.7641263,116.953204 36.7641263,116.953204 L36.7641259,95.6179715 Z" id="Path-211" stroke="none" fill="#2D292A" fill-rule="evenodd"></path>
-                            <path d="M22.6320697,95.6179715 L36.9579464,95.6179715 C36.9579464,95.6179715 35.6398787,110.028773 32.7089785,114.393702 C30.8645866,117.140517 22.6320701,116.953204 22.6320701,116.953204 L22.6320697,95.6179715 Z" id="Path-211-Copy" stroke="none" fill="#434343" fill-rule="evenodd" transform="translate(29.795008, 106.286937) scale(-1, 1) translate(-29.795008, -106.286937) "></path>
-                            <path d="M26.4976054,98.8903208 L46.5180184,106.635745" id="Line" stroke="#201E1F" stroke-width="2" stroke-linecap="square" fill="none"></path>
-                            <path d="M26.4976054,101.98849 L46.5180184,109.733914" id="Line-Copy-16" stroke="#201E1F" stroke-width="2" stroke-linecap="square" fill="none"></path>
-                            <path d="M26.4976054,105.08666 L46.5180184,112.832084" id="Line-Copy-17" stroke="#201E1F" stroke-width="2" stroke-linecap="square" fill="none"></path>
+                            <path d="M36.8610362,0.0541156208 L36.8610362,95.6179715 L50.8181141,95.5072513 C50.8181141,95.5072513 54.5886999,94.8512044 54.9884918,87.5980795 C55.9275248,83.8030962 59.1512839,67.7289009 63.5628898,61.337791 C83.630201,36.6649417 72.8026035,1.95133606 36.8610362,0.0541156208 Z"
+                                  id="Path-207" stroke="none" fill="#F0D212" fill-rule="evenodd"></path>
+                            <path d="M0.175734598,0.0541156208 L0.175734598,95.6179715 L14.1328125,95.5072513 C14.1328125,95.5072513 17.9033983,94.8512044 18.3031902,87.5980795 C19.2422232,83.8030962 22.4659823,67.7289009 26.8775882,61.337791 C46.9448994,36.6649417 36.1173019,1.95133606 0.175734598,0.0541156208 Z"
+                                  id="Path-207-Copy" stroke="none" fill="#F3EF6A" fill-rule="evenodd"
+                                  transform="translate(18.518385, 47.836044) scale(-1, 1) translate(-18.518385, -47.836044) "></path>
+                            <path d="M29.197393,33.6648451 L33.762625,37.108032 L36.7102437,33.3112662 L39.5025338,37.108032 L42.6923192,33.3112662"
+                                  id="Path-216" stroke="#737373" stroke-width="2" fill="none"></path>
+                            <ellipse id="Oval-149" stroke="#FFFFFF" stroke-width="3" fill="none" cx="28.1070896"
+                                     cy="34.6033017" rx="2.94417838" ry="2.904534"></ellipse>
+                            <path d="M28.4132841,37.2693727 L32.3859622,98.8903208" id="Line" stroke="#FFFFFF"
+                                  stroke-width="3" stroke-linecap="square" fill="none"></path>
+                            <ellipse id="Oval-149-Copy" stroke="#BEB783" stroke-width="3" fill="none" cx="44.8614273"
+                                     cy="34.6033017" rx="2.94417838" ry="2.904534"></ellipse>
+                            <path d="M44.6494467,37.2693727 L41.0222187,98.8903208" id="Line-Copy-15" stroke="#BEB783"
+                                  stroke-width="3" stroke-linecap="square" fill="none"></path>
+                            <path d="M36.7641259,95.6179715 L51.0900027,95.6179715 C51.0900027,95.6179715 49.771935,110.028773 46.8410347,114.393702 C44.9966428,117.140517 36.7641263,116.953204 36.7641263,116.953204 L36.7641259,95.6179715 Z"
+                                  id="Path-211" stroke="none" fill="#2D292A" fill-rule="evenodd"></path>
+                            <path d="M22.6320697,95.6179715 L36.9579464,95.6179715 C36.9579464,95.6179715 35.6398787,110.028773 32.7089785,114.393702 C30.8645866,117.140517 22.6320701,116.953204 22.6320701,116.953204 L22.6320697,95.6179715 Z"
+                                  id="Path-211-Copy" stroke="none" fill="#434343" fill-rule="evenodd"
+                                  transform="translate(29.795008, 106.286937) scale(-1, 1) translate(-29.795008, -106.286937) "></path>
+                            <path d="M26.4976054,98.8903208 L46.5180184,106.635745" id="Line" stroke="#201E1F"
+                                  stroke-width="2" stroke-linecap="square" fill="none"></path>
+                            <path d="M26.4976054,101.98849 L46.5180184,109.733914" id="Line-Copy-16" stroke="#201E1F"
+                                  stroke-width="2" stroke-linecap="square" fill="none"></path>
+                            <path d="M26.4976054,105.08666 L46.5180184,112.832084" id="Line-Copy-17" stroke="#201E1F"
+                                  stroke-width="2" stroke-linecap="square" fill="none"></path>
                         </g>
                     </g>
                 </g>

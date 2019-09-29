@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="105px" height="75px" viewBox="0 0 105 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="105px" height="75px" viewBox="0 0 105 75" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>home</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="512" sketch:type="MSArtboardGroup" transform="translate(-365.000000, -218.000000)" fill="#FFFFFF">
-            <path d="M435.12702,230.168729 L417.791775,218 L365.583551,254.648329 L383.402854,254.648329 L383.402854,292.716301 L409.292762,292.716301 L409.292762,292.716301 L409.292762,272.374843 L426.533618,272.374843 L426.533618,292.716301 L452.180696,292.716301 L452.180696,254.648329 L452.180696,254.648329 L470,254.648329 L446.558823,238.193451 L446.558823,221.810601 L435.12702,221.810601 L435.12702,230.168729 Z" id="home" sketch:type="MSShapeGroup"></path>
+            <path d="M435.12702,230.168729 L417.791775,218 L365.583551,254.648329 L383.402854,254.648329 L383.402854,292.716301 L409.292762,292.716301 L409.292762,292.716301 L409.292762,272.374843 L426.533618,272.374843 L426.533618,292.716301 L452.180696,292.716301 L452.180696,254.648329 L452.180696,254.648329 L470,254.648329 L446.558823,238.193451 L446.558823,221.810601 L435.12702,221.810601 L435.12702,230.168729 Z"
+                  id="home" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

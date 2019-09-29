@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="96px" height="145px" viewBox="0 0 96 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="96px" height="145px" viewBox="0 0 96 145" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>Oval 29 Copy + Oval 30</title>
     <desc>Created with Sketch.</desc>
@@ -9,8 +10,10 @@
             <g id="Group" sketch:type="MSLayerGroup">
                 <g id="手＋鼠标" sketch:type="MSShapeGroup">
                     <g id="Oval-29-Copy-+-Oval-30" transform="translate(240.000000, 238.000000)">
-                        <path d="M47.5770967,144.26601 C75.9154499,144.26601 98.4307651,110.043763 95.0731212,70.124997 C91.7154774,30.2062309 75.9154499,0.42364532 47.5770967,0.42364532 C19.2387435,0.42364532 6.73696899,28.7058522 1.20510643,70.124997 C-4.32675613,111.544142 19.2387435,144.26601 47.5770967,144.26601 Z" id="Oval-29-Copy" fill="#F3F3F3"></path>
-                        <ellipse id="Oval-30" fill="#6F6F6F" cx="48.6699507" cy="32.7261355" rx="4.92610837" ry="20.47983"></ellipse>
+                        <path d="M47.5770967,144.26601 C75.9154499,144.26601 98.4307651,110.043763 95.0731212,70.124997 C91.7154774,30.2062309 75.9154499,0.42364532 47.5770967,0.42364532 C19.2387435,0.42364532 6.73696899,28.7058522 1.20510643,70.124997 C-4.32675613,111.544142 19.2387435,144.26601 47.5770967,144.26601 Z"
+                              id="Oval-29-Copy" fill="#F3F3F3"></path>
+                        <ellipse id="Oval-30" fill="#6F6F6F" cx="48.6699507" cy="32.7261355" rx="4.92610837"
+                                 ry="20.47983"></ellipse>
                     </g>
                 </g>
             </g>

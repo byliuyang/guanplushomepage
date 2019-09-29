@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="45px" height="77px" viewBox="0 0 45 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="45px" height="77px" viewBox="0 0 45 77" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>Path 9 + Path 9 Copy + Rectangle 4</title>
     <desc>Created with Sketch.</desc>
@@ -9,9 +10,12 @@
             <g id="Group" sketch:type="MSLayerGroup">
                 <g id="手＋手机" transform="translate(214.503002, 219.704433)" sketch:type="MSShapeGroup">
                     <g id="Path-9-+-Path-9-Copy-+-Rectangle-4" transform="translate(82.000000, 43.000000)">
-                        <path d="M1.08898112,29.9022083 L21.6962296,0.604771523 L42.2676157,29.9022083 L30.9008429,29.902209 L28.5798703,60.156249 L15.6705808,60.156249 L13.0147166,29.902209 L1.08898112,29.9022083 Z" id="Path-9" fill-opacity="0.866225091" fill="#146996"></path>
-                        <path d="M1.08898112,29.9022083 L21.6962296,0.604771523 L23.0770845,60.156249 L15.6705808,60.156249 L13.0147166,29.902209 L1.08898112,29.9022083 Z" id="Path-9-Copy" fill-opacity="0.866225091" fill="#135F87"></path>
-                        <rect id="Rectangle-4" fill="#347DA4" x="0.130896226" y="70.703125" width="43.6910377" height="5.859375"></rect>
+                        <path d="M1.08898112,29.9022083 L21.6962296,0.604771523 L42.2676157,29.9022083 L30.9008429,29.902209 L28.5798703,60.156249 L15.6705808,60.156249 L13.0147166,29.902209 L1.08898112,29.9022083 Z"
+                              id="Path-9" fill-opacity="0.866225091" fill="#146996"></path>
+                        <path d="M1.08898112,29.9022083 L21.6962296,0.604771523 L23.0770845,60.156249 L15.6705808,60.156249 L13.0147166,29.902209 L1.08898112,29.9022083 Z"
+                              id="Path-9-Copy" fill-opacity="0.866225091" fill="#135F87"></path>
+                        <rect id="Rectangle-4" fill="#347DA4" x="0.130896226" y="70.703125" width="43.6910377"
+                              height="5.859375"></rect>
                     </g>
                 </g>
             </g>

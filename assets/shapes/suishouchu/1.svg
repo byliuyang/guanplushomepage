@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="143px" height="148px" viewBox="0 0 143 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" width="143px" height="148px" viewBox="0 0 143 148"
+     version="1.1" xmlns="http://www.w3.org/2000/svg">
     <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
     <title>1</title>
     <desc>Created with Sketch.</desc>
@@ -15,42 +16,102 @@
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <use id="Mask" fill="#DB3423" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                    <path d="M91.2128699,156.27515 C75.4028861,146.610706 36.5181464,123.249696 36.5181464,123.249696 C36.5181464,123.249696 48.8293068,88.3545967 58.1360414,69.0865219 C63.1138485,71.1700984 69.5013759,73.9940802 74.4593817,75.7561245 C79.4173874,77.5181688 77.7995203,71.9690918 79.3525462,68.4319045 C84.3346383,57.0846416 106.244448,25.615763 106.244448,25.615763 C106.244448,25.615763 148.856925,61.4466802 164.135775,71.7189802 C166.205206,111.300835 104.823644,154.397714 91.2128699,156.27515 Z" id="Rectangle-6" fill="#9F261A" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M91.2128699,156.27515 C75.4028861,146.610706 36.5181464,123.249696 36.5181464,123.249696 C36.5181464,123.249696 48.8293068,88.3545967 58.1360414,69.0865219 C63.1138485,71.1700984 69.5013759,73.9940802 74.4593817,75.7561245 C79.4173874,77.5181688 77.7995203,71.9690918 79.3525462,68.4319045 C84.3346383,57.0846416 106.244448,25.615763 106.244448,25.615763 C106.244448,25.615763 148.856925,61.4466802 164.135775,71.7189802 C166.205206,111.300835 104.823644,154.397714 91.2128699,156.27515 Z"
+                          id="Rectangle-6" fill="#9F261A" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
                     <g id="计算器" mask="url(#mask-2)">
                         <g transform="translate(34.663866, 24.106488)">
                             <mask id="mask-4" sketch:name="Mask" fill="white">
                                 <use xlink:href="#path-3"></use>
                             </mask>
-                            <use id="Mask" stroke="none" fill="#808080" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
-                            <rect id="Rectangle-36-Copy" stroke="none" fill="#B4B4B4" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)" x="36.9389462" y="0.172865062" width="36.9389462" height="99.5702757"></rect>
-                            <rect id="Rectangle-38" stroke="none" fill="#FFF5E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="5.92417062" y="5.35881692" width="61.6810705" height="22.472458"></rect>
-                            <rect id="Rectangle-39" stroke="none" fill="#5BD5BC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="34.1511012" y="11.236229" width="5.57568999" height="11.063364"></rect>
-                            <rect id="Rectangle-39-Copy" stroke="none" fill="#5BD5BC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="45.3024812" y="11.236229" width="5.57568999" height="11.063364"></rect>
-                            <rect id="Rectangle-39-Copy-2" stroke="none" fill="#5BD5BC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="56.4538612" y="11.236229" width="5.57568999" height="11.063364"></rect>
-                            <rect id="Rectangle-42" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="5.92417062" y="33.3629569" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="8.7615649" y="36.4148953" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-3" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="5.92417062" y="49.9580029" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-2" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="8.7615649" y="53.0099413" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-5" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="5.92417062" y="66.5530488" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-4" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="8.7615649" y="69.6049872" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-11" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="22.6512406" y="33.3629569" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-6" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="25.4886349" y="36.4148953" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-7" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="22.6512406" y="49.9580029" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-8" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="25.4886349" y="53.0099413" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-9" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="22.6512406" y="66.5530488" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-10" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="25.4886349" y="69.6049872" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-17" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="39.3783106" y="33.3629569" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-12" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="42.2157049" y="36.4148953" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-13" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="39.3783106" y="49.9580029" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-14" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="42.2157049" y="53.0099413" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-21" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="56.1053805" y="33.3629569" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-18" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="58.9427748" y="36.4148953" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-19" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="56.1053805" y="49.9580029" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-20" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="58.9427748" y="53.0099413" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-15" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="39.3783106" y="66.5530488" width="11.4998606" height="11.4090941"></rect>
-                            <rect id="Rectangle-42-Copy-16" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="42.2157049" y="69.6049872" width="5.82507204" height="5.3052173"></rect>
-                            <rect id="Rectangle-42-Copy-23" stroke="none" fill="#FFF4E3" fill-rule="evenodd" sketch:type="MSShapeGroup" x="56.1053805" y="66.5530488" width="11.4998606" height="27.6584099"></rect>
-                            <rect id="Rectangle-42-Copy-22" stroke="none" fill="#CCBEAC" fill-rule="evenodd" sketch:type="MSShapeGroup" x="58.9427748" y="69.6049872" width="5.82507204" height="21.8406305"></rect>
+                            <use id="Mask" stroke="none" fill="#808080" fill-rule="evenodd" sketch:type="MSShapeGroup"
+                                 xlink:href="#path-3"></use>
+                            <rect id="Rectangle-36-Copy" stroke="none" fill="#B4B4B4" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" mask="url(#mask-4)" x="36.9389462" y="0.172865062"
+                                  width="36.9389462" height="99.5702757"></rect>
+                            <rect id="Rectangle-38" stroke="none" fill="#FFF5E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="5.92417062" y="5.35881692" width="61.6810705"
+                                  height="22.472458"></rect>
+                            <rect id="Rectangle-39" stroke="none" fill="#5BD5BC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="34.1511012" y="11.236229" width="5.57568999"
+                                  height="11.063364"></rect>
+                            <rect id="Rectangle-39-Copy" stroke="none" fill="#5BD5BC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="45.3024812" y="11.236229" width="5.57568999"
+                                  height="11.063364"></rect>
+                            <rect id="Rectangle-39-Copy-2" stroke="none" fill="#5BD5BC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="56.4538612" y="11.236229" width="5.57568999"
+                                  height="11.063364"></rect>
+                            <rect id="Rectangle-42" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="5.92417062" y="33.3629569" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="8.7615649" y="36.4148953" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-3" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="5.92417062" y="49.9580029" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-2" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="8.7615649" y="53.0099413" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-5" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="5.92417062" y="66.5530488" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-4" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="8.7615649" y="69.6049872" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-11" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="22.6512406" y="33.3629569" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-6" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="25.4886349" y="36.4148953" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-7" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="22.6512406" y="49.9580029" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-8" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="25.4886349" y="53.0099413" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-9" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="22.6512406" y="66.5530488" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-10" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="25.4886349" y="69.6049872" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-17" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="39.3783106" y="33.3629569" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-12" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="42.2157049" y="36.4148953" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-13" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="39.3783106" y="49.9580029" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-14" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="42.2157049" y="53.0099413" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-21" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="56.1053805" y="33.3629569" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-18" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="58.9427748" y="36.4148953" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-19" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="56.1053805" y="49.9580029" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-20" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="58.9427748" y="53.0099413" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-15" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="39.3783106" y="66.5530488" width="11.4998606"
+                                  height="11.4090941"></rect>
+                            <rect id="Rectangle-42-Copy-16" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="42.2157049" y="69.6049872" width="5.82507204"
+                                  height="5.3052173"></rect>
+                            <rect id="Rectangle-42-Copy-23" stroke="none" fill="#FFF4E3" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="56.1053805" y="66.5530488" width="11.4998606"
+                                  height="27.6584099"></rect>
+                            <rect id="Rectangle-42-Copy-22" stroke="none" fill="#CCBEAC" fill-rule="evenodd"
+                                  sketch:type="MSShapeGroup" x="58.9427748" y="69.6049872" width="5.82507204"
+                                  height="21.8406305"></rect>
                         </g>
                     </g>
                 </g>
