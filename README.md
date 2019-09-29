@@ -3,6 +3,7 @@ Animated homepage for Concordya Inc.
 
 ## Preview
 [Live demo](https://github.com/byliuyang/guanplushomepage)
+
 ![First screen](screenshots/0.png)
 ![Second screen](screenshots/1.png)
 ![Third screen](screenshots/2.png)
